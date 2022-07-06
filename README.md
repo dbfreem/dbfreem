@@ -1,16 +1,15 @@
-### Hi there 👋
+## About Me
+*I love building things with code!*
 
-<!--
-**dbfreem/dbfreem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+![don's stats](https://github-readme-stats.vercel.app/api?username=dbfreem&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- **Python**
+- **Java** 
+
+## Learning
+- **Go**
+- **Ethereum**
+
