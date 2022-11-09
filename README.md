@@ -8,8 +8,5 @@
 ## Languages
 - **Python**
 - **Java** 
-
-## Learning
-- **Go**
 - **Ethereum**
 
