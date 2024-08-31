@@ -1,6 +1,10 @@
 ## About Me
 *I love building things with code!*
 
+
+Founder of Freeman Tech Consulting
+https://freemantechconsulting.com
+
 ## Frameworks
 - **Terraform**
 - **Python**
