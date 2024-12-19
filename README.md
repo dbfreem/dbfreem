@@ -20,3 +20,4 @@ https://freemantechconsulting.com
 ## Cloud Providers
 - **AWS**
 - **GCP**
+- **Hashicorp Cloud Platform**
