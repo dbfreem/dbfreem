@@ -1,23 +1,14 @@
-## About Me
-*I love building things with code!*
-
-
-Founder of Freeman Tech Consulting
-https://freemantechconsulting.com
-
-## Frameworks
-- **Terraform**
-- **Python**
-- **Java** 
-- **Web3**
-- **Kubernetes** 
-- **Angular**
-- **Spring**
-- **Kafka**
-- **Typescript**
-- **FastAPI**
-
-## Cloud Providers
-- **AWS**
-- **GCP**
-- **Hashicorp Cloud Platform**
+  # Don Freeman                                                                                                                                                        
+                  
+  Builder at the intersection of **AI + Web3 data infrastructure**.                                                                                                    
+                  
+  Currently: Engineering @ [SonarX](https://sonarx.com) — blockchain data for protocols, analysts, and developers.                                                      
+                  
+  **What I build:**                                                                                                                                                    
+  - On-chain data tooling and APIs
+  - Cross-chain analytics pipelines                                                                                                                                    
+  - AI-assisted developer tools                                                                                                                                        
+                                                                                                                                                                       
+  **Stack:** Python · TypeScript · Terraform · Kubernetes · AWS · GCP                                                                                                  
+                                                                                                                                                                       
+  📍 [X](https://x.com/D0nFreeman) · [LinkedIn](https://linkedin.com/in/donald-freeman/)      
