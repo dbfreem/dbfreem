@@ -13,7 +13,7 @@
 
   ## Open Source
                                                                                                                                                                        
-  **[web3.py](https://github.com/ethereum/web3.py)** — #15 all-time contributor                                                                                        
+  **[web3.py](https://github.com/ethereum/web3.py)** — #15 all-time contributorv (as of 3-18-26)                                                                                        
   - 26 merged commits · 9,600+ lines added
   - Worked on async implementation work across the library as well as other features
 
