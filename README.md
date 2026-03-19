@@ -15,6 +15,6 @@
                                                                                                                                                                        
   **[web3.py](https://github.com/ethereum/web3.py)** — #15 all-time contributor                                                                                        
   - 26 merged commits · 9,600+ lines added
-  - Led async implementation work across the library  
+  - Worked on async implementation work across the library as well as other features
 
 📍 [X](https://x.com/D0nFreeman) · [LinkedIn](https://linkedin.com/in/donald-freeman/)      
